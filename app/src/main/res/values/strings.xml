@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SIKHAS</string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="SMK">SMK Muhammadiyah 2 Pekanbaru yang saat ini lebih dikenal dengan SMK Muda
+            yang berlokasi dijalan K.H.Ahmad Dahlan no.90 Sukajadi adalah sebuah lembaga pendidikan
+            yang berada di bawah naungan persyarikatan muhammadiyah yang berdiri pada tahun 1984.</string>
+    <string name="app_name1">onboarding_abil</string>
+    <string name="namaAplikasi">SIKHAS</string>
+    <string name="taplanjut">Tap untuk melanjutkan</string>
+    <string name="title_activity_maps">Halaman Map</string>
+    <string name="tampilan_normal">Tampilan Normal</string>
+    <string name="tampilan_hybrid">Tampilan Hybrid</string>
+    <string name="tampilan_satelit">Tampilan Satelit</string>
+    <string name="tampilan_terrain">Tampilan Terrain</string>
+    <string name="hello_blank_fragment">Tampilan Terrain</string>
+    <string name="API_KEY"></string>
+</resources>

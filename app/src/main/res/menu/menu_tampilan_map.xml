@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/map_normal"
+        android:title="@string/tampilan_normal"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map_hybrid"
+        android:title="@string/tampilan_hybrid"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map_satelit"
+        android:title="@string/tampilan_satelit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map_terrain"
+        android:title="@string/tampilan_terrain"
+        app:showAsAction="never" />
+</menu>

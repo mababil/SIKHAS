@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+    <!--tools:context=".vPagerFragment.Screen.Boarding1"> -->
+    <!--  TODO: Update blank fragment layout  -->
+    <ImageView
+        android:id="@+id/bg_hal_depan1"
+        android:layout_width="500dp"
+        android:layout_height="350dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:paddingBottom="14dp"
+        android:src="@drawable/onboard3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="350dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/namaAplikasi"
+        android:textColor="@color/tulisan"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="420dp"
+        android:layout_marginRight="60dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="Segera kelola keuangan sistem keuangan sekolahmu dengan SIKHAS!"
+        android:textAlignment="center"
+        android:textColor="@color/tulisan"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/txtHalNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginRight="60dp"
+        android:fontFamily ="@font/poppins_medium"
+        android:text="@string/taplanjut"
+        android:textColor="@color/tulisan"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="175dp"
+        android:layout_marginTop="630dp"
+        android:src="@drawable/titik2_3" />
+</RelativeLayout>
